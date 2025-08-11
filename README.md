@@ -2,10 +2,16 @@
 
 # Bus Booking System
 
+
+This project is based on an existing bus booking system I saw on YouTube.
+I have updated the original code and added new functionalities to improve it and make it my own.
+
+
+
 A simple Python console application to manage bus routes, seats, ticket booking, and cancellations.  
 This project demonstrates object-oriented programming concepts and basic command-line interface design.
 
----
+
 
 ## Features
 
